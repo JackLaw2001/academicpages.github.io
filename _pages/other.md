@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Other"
+permalink: /other/
 author_profile: true
 redirect_from:
-  - /resume
+  - /oth
 ---
 
 {% include base_path %}
