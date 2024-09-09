@@ -1,7 +1,9 @@
 ---
+layout: archive
 title: "Seizure Detection and Prediction Based on EEG"
 excerpt: "PhD Research<br/><img src='/images/mas3.png' height='300' width='500'>"
 collection: projects
+author_profile: true
 ---
 **Funding**: This project is funded by the *Hunan Normal University Undergraduates Innovative Experiment Project*, and I am the principal investigator.
 
