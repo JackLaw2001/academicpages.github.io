@@ -10,7 +10,7 @@ author_profile: true
 
 **Introduction**: The consensus is a research hot-spot in the field of collaborative control. Each agent in the multi-agent systems is autonomous, can exchange information with adjacent nodes through the communication network, and reach a certain consensus under the control of the some certain control protocol. In this project, I mainly completed three works. Among them, my first and second work mainly focused on the classic problems in the field of collaborative control, and proposed fixed-time convergent and robust control protocols for the multi-agent consensus problem. In the third work, I innovatively applied fuzzy control theory to multi-agent consensus control, and proposed a fixed-Time, robust and fuzzy Adaptive consensus control model with event trigger mechanism. At present, there is no similar work on this, which is very innovative.
 
-![这是图片](../images/mas0.png "Magic Gardens")
+![这是图片](ICPC.png "Magic Gardens")
 
 <div align=center><img src="../images/mas0.png"></div>
 
