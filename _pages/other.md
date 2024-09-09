@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Teaching
+# Demonstration
 * Spring, 2024
   * CSC 8101 Engineering for AI
   * CSC 8632 Data Science in the Wild
