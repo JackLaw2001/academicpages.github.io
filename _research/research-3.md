@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Seizure Detection and Prediction Based on EEG"
-excerpt: "Preliminary PhD Research<br/><img src='/images/mas3.png' height='300' width='500'>"
+excerpt: "Preliminary PhD Research<br/><img src='/images/model0.png' height='300' width='500'>"
 collection: projects
 author_profile: true
 ---
