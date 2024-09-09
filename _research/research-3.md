@@ -7,6 +7,8 @@ author_profile: true
 ---
 **Introduction**: As one of the most common neurological disorders, epilepsy affects millions of families around the world. The characteristics of epileptic seizures vary, depending on where in the brain the disturbance first occurs and how far it spreads. Transient symptoms may occur, such as loss of consciousness or perception, and disturbances in movement, sensation, mood, or other cognitive functions. In many cases, patients with epilepsy die not because of epilepsy itself, but because of unexpected accidents caused by it, such as falls, burns, and drowning. Thus, it is crucial for us to predict seizures and take appropriate measures to prevent serious accidents. As a general disease name, there are many types of seizures, and patients with different seizures usually have different symptoms and treatment options. It is also important for us to find out what type of seizure the patient is suffering from and select appropriate treatment plan. In this project, I aim to develop seizure detection and classification algorithms based on EEG. Although it did not go well, my initial research goal was to achieve seizre detection and prediction with few samples or unlabeled samples. In the same context, I supervised an undergraduate student to help her complete her thesis.
 
+<div align=center><img src="/images/model0.png" width = 600 alt="Rasekhi et al., Epileptic Seizure Prediction based on Ratio and Differential Linear Univariate Features" alt="Rasekhi et al., Epileptic Seizure Prediction based on Ratio and Differential Linear Univariate Features"></div>
+
 <div align=center>
 <table><tr>
 <td><img src="/images/model.png" width = 600></td>
