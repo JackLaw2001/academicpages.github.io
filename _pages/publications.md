@@ -22,3 +22,6 @@ redirect_from:
 
 # Preprint
 * Xiao, L., **Luo, J.**, Ning, Y., & Tan, P. (2023). Fixed-Time, Robust and Fuzzy Adaptive Consensus Control with Event Trigger Mechanism Based on a Novel ZNN Scheme.
+
+Last update: July, 2024
+Please visit my [research gate](https://www.researchgate.net/profile/Jiajie-Luo-7) for more details. Some publications are not captured by research gate because of delays in publishing.
