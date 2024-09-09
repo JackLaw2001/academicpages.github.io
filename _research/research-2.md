@@ -15,14 +15,12 @@ collection: projects
 <img src="../images/ICPC.png">
 
 <div align=center>
-<img src="../images/mas0.png" width = 40% >
+<img src="/images/mas0.png" width = 40% >
 <table><tr>
-<td><img src="../images/mas2.png" ></td>
-<td><img src="../images/mas3.png" ></td>
+<td><img src="/images/mas2.png" ></td>
+<td><img src="/images/mas3.png" ></td>
 </tr></table>
 </div>
-
-<img src='/images/500x300.png'>
 
 **Description**: 
 1. Fixed-Time Consensus for Multiagent Systems Under Switching Topology: A Distributed Zeroing Neural Network-Based Method (Fixed-time Consensus)  
