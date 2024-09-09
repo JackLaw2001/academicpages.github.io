@@ -1,6 +1,6 @@
 ---
 title: "Substance Analysis System Based on Artificial Intelligence and Near-infrared Spectroscopy"
-excerpt: "PI, funded by the Hunan province college students research learning and innovative experiment project; Duration:2020-2021 <br/><img src='/images/nir.png'>"
+excerpt: "PI, funded by the Hunan province college students research learning and innovative experiment project<br/><img src='/images/nir.png' height='300' width='500'>"
 collection: projects
 ---
 
