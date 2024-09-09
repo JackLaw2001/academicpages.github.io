@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <!-- APA REF -->
+
 # Journal
 * Xiao, L., **Luo, J.**, Li, J., Jia, L., & Li, J. (2024). Fixed-Time Consensus for Multiagent Systems Under Switching Topology: A Distributed Zeroing Neural Network-Based Method. IEEE Systems, Man, and Cybernetics Magazine, 10(3), 44-55.
 * Dai, J., Tan, P., Xiao, L., Jia, L., He, Y., & **Luo, J.** (2023). A fuzzy adaptive zeroing neural network model with event-triggered control for time-varying matrix inversion. IEEE Transactions on Fuzzy Systems, 31(11), 3974-3983.
