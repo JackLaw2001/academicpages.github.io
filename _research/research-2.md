@@ -1,6 +1,6 @@
 ---
 title: "Research on Multi-Agent System Based on Zeroing Neural Network"
-excerpt: "PI, funded by the Hunan Normal University Undergraduates Innovative Experiment Project<br/><img src='/images/nir.png' height='300' width='500'>"
+excerpt: "PI, funded by the Hunan Normal University Undergraduates Innovative Experiment Project<br/><img src='/images/mas3.png' height='300' width='500'>"
 collection: projects
 ---
 **Funding**: This project is funded by the *Hunan Normal University Undergraduates Innovative Experiment Project*, and I am the principal investigator.
@@ -10,11 +10,11 @@ collection: projects
 
 <div align=center>
 <img src=../images/mas0.jpg width = 40% >
+</div>
 <table><tr>
 <td><img src=../images/mas2.jpg ></td>
 <td><img src=../images/mas3.jpg ></td>
 </tr></table>
-</div>
 
 **Description**: 
 1. Fixed-Time Consensus for Multiagent Systems Under Switching Topology: A Distributed Zeroing Neural Network-Based Method (Fixed-time Consensus)
