@@ -4,6 +4,8 @@ excerpt: "PI, funded by the Hunan Province College Students Research Learning an
 collection: projects
 ---
 **Funding**: This project is funded by the *unan Province College Students Research Learning and Innovative Experiment Project*, and I am the principal investigator.
+
+
 **Introduction**: As a rising technology, near-infrared spectroscopy is being widely used in food, medicine and other fields. For example, by scanning the spectrum of traditional Chinese medicine, the determination of important physical and chemical indicators of traditional Chinese medicine can be realized. However, these research results are carried out under laboratory conditions, the instruments are expensive, the professional knowledge requirements for users are high, and industrial application cannot be realized. Recently, a MEMS technology has emerged, which can make the spectrometer only the size of a palm, and at the same time greatly reduce the price. These new technologies have laid the foundation for the popularization of near-infrared spec- troscopy detection technology. In this project, we designed a complete spectral material detection system based on the MEMS near-infrared spectroscopy module. I mainly do the artificial intelligence modeling part. First, I get a practical model through data preprocessing, machine learning, deep learning modeling, etc., and then use Django REST framework to design an API interface. The project has great commercial value, and based on this, it has participated in many innovation, entrepreneurship and computer design competitions.
 
 <div align=center>

@@ -22,6 +22,8 @@ collection: projects
 </tr></table>
 </div>
 
+<img src='/images/500x300.png'>
+
 **Description**: 
 1. Fixed-Time Consensus for Multiagent Systems Under Switching Topology: A Distributed Zeroing Neural Network-Based Method (Fixed-time Consensus)  
 <u>Abstract</u>: *The zeroing neural network (ZNN) has been utilized in various control applications, such as tracking and motion control. While ZNN has been widely employed, its utilization in consensus control schemes is rarely reported. In this study, we propose a novel distributed fixed-time ZNN (DFTZNN) scheme designed to achieve fixed-time and robust consensus in multiagent systems operating under a switching topology. Theoretical analysis is provided to establish the fixed-time stability and robustness of the proposed scheme in the presence of bounded noises. To highlight the superiority of the proposed method, we introduce an example demonstrating the estimation of the upper bound of a settling-time function. Theoretical analysis and a novel upper-bound estimation method are subsequently validated through numerical experiments, including a practical application in formation control. The comprehensive theoretical and simulation results demonstrate the superior performance of the DFTZNN scheme under both fixed and switching topologies, establishing it as a novel and systematic framework for designing consensus control schemes.*
