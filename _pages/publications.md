@@ -9,56 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Journal
+* Dai, J., Tan, P., Xiao, L., Jia, L., He, Y., & Luo, J. (2023). A fuzzy adaptive zeroing neural network model with event-triggered control for time-varying matrix inversion. IEEE Transactions on Fuzzy Systems, 31(11), 3974-3983.
+* Qi, Z., Ning, Y., Xiao, L., Luo, J., & Li, X. (2023). Finite-time zeroing neural networks with novel activation function and variable parameter for solving time-varying Lyapunov tensor equation. Applied Mathematics and Computation, 452, 128072.
+* Luo, J., Xiao, L., Cao, P., & Li, X. (2023). A new class of robust and predefined-time consensus protocol based on noise-tolerant ZNN models. Applied Soft Computing, 145, 110550.
+* Qi, Z., Ning, Y., Xiao, L., He, Y., **Luo, J.**, & Luo, B. (2023). Predefined-time zeroing neural networks with independent prior parameter for solving time-varying plural Lyapunov tensor equation. IEEE Transactions on Neural Networks and Learning Systems.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Conference
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Preprint
