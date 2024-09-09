@@ -1,6 +1,6 @@
 ---
-title: "Project 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Substance Analysis System Based on Artificial Intelligence and Near-infrared Spectroscopy"
+excerpt: "PI, funded by the Hunan province college students research learning and innovative experiment project; Duration:2020-2021 <br/><img src='/images/nir.png'>"
 collection: projects
 ---
 
