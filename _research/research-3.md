@@ -12,7 +12,7 @@ author_profile: true
 
 <div align=center><img src="../images/mas0.png"></div>
 
-<div align=center><img src="../images/ICPC.png"></div>
+<div align=center><img src="ICPC.png"></div>
 
 <div align=center>
 <img src="../images/mas0.png" width = 40% >
