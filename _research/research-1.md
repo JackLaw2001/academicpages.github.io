@@ -1,6 +1,6 @@
 ---
 title: "Substance Analysis System Based on Artificial Intelligence and Near-infrared Spectroscopy"
-excerpt: "PI, funded by the Hunan Province College Students Research Learning and Innovative Experiment Project<br/><img src='/images/nir.png' height='300' width='500'>"
+excerpt: "PI, funded by the Hunan Province College Students Research Learning and Innovative Experiment Project, undergraduate research<br/><img src='/images/nir.png' height='300' width='500'>"
 collection: projects
 ---
 **Funding**: This project is funded by the *unan Province College Students Research Learning and Innovative Experiment Project*, and I am the principal investigator.

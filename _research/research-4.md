@@ -15,5 +15,5 @@ collection: projects
 </div>
 
 **Description**: 
-1. Differences in cortical folding between autistic and healthy individuals (Ongoing)
+1. Differences in cortical folding between autistic and healthy individuals (Ongoing)  
 <u>Abstract</u>: *Ongoing*

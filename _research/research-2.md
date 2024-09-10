@@ -1,6 +1,6 @@
 ---
 title: "Research on Multi-Agent System Based on Zeroing Neural Network"
-excerpt: "PI, funded by the Hunan Normal University Undergraduates Innovative Experiment Project<br/><img src='/images/mas3.png' height='300' width='500'>"
+excerpt: "PI, funded by the Hunan Normal University Undergraduates Innovative Experiment Project, undergraduate research<br/><img src='/images/mas3.png' height='300' width='500'>"
 collection: projects
 ---
 **Funding**: This project is funded by the *Hunan Normal University Undergraduates Innovative Experiment Project*, and I am the principal investigator.
