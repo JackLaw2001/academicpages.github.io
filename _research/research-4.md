@@ -1,5 +1,5 @@
 ---
-title: "Cortical folding"
+title: "Cortical Folding"
 excerpt: "Preliminary PhD Research<br/><img src='/images/law2.png' height='300' width='500'>"
 collection: projects
 ---
