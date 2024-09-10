@@ -16,4 +16,4 @@ collection: projects
 
 **Description**: 
 1. Differences in cortical folding between autistic and healthy individuals (Ongoing)
-<u>Abstract</u>: **
+<u>Abstract</u>: *Ongoing*
