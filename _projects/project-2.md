@@ -1,5 +1,5 @@
 ---
-title: "Geographic visualization of user IP data in a WeChat mini-program"
+title: "Grabbing seats in the library"
 excerpt: "Completed during my freshman year, 2020<br/><img src='/images/heat1.jpg' width='600'>"
 collection: projects
 ---
