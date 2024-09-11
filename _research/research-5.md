@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Seizure Detection and Prediction Based on EEG"
-excerpt: "Preliminary PhD Research<br/><img src='/images/model0.png' height='300' width='500'>"
+title: "Variable-Parameter Zeroing Neural Network And Its Application in Intelligent Computing"
+excerpt: "Preliminary PhD Research<br/><img src='/images/fpznn.png' height='300' width='500'>"
 collection: projects
 author_profile: true
 ---
