@@ -15,6 +15,7 @@ OCR technique is used to extract texts. Before OCR, I used the *Opencv* package 
 <td><img src="/images/r22.jpg" ></td>
 </tr></table>
 </div>
+<div align=center><img src="../images/r23.png"></div>
 <!-- <div align=center>
 <table><tr>
 <td><img src="/images/heat2.jpg"></td>
