@@ -1,6 +1,6 @@
 ---
 title: "Grabbing Seats in the Library"
-excerpt: "Completed during my sophomore year, 2021<br/><img src='/images/heat1.jpg' width='600'>"
+excerpt: "Completed during my sophomore year, 2021<br/><img src='/images/r12.png' width='600'>"
 collection: projects
 ---
 
@@ -14,13 +14,13 @@ By intercepting network requests, I found the key API for seat reservation. Base
 <td><img src="/images/r11.png"></td>
 <td><img src="/images/r12.png" ></td>
 </tr></table>
-</div> -->
-<!-- <div align=center>
+</div>
+<div align=center>
 <table><tr>
-<td><img src="/images/heat2.jpg"></td>
-<td><img src="/images/heat3.jpg" ></td>
+<td><img src="/images/r13.jpg"></td>
+<td><img src="/images/r14.jpg" ></td>
 </tr></table>
-</div> --> -->
+</div>
 
 
 
