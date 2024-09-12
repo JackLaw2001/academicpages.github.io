@@ -1,6 +1,6 @@
 ---
 title: "Schengen Visa Reservation Assistant"
-excerpt: "Completed in 2024<br/><img src='/images/heat1.jpg' width='600'>"
+excerpt: "Completed in 2024<br/><img src='/images/r31.jpg' width='600'>"
 collection: projects
 ---
 
