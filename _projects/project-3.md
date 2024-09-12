@@ -9,13 +9,13 @@ collection: projects
 **Description**:
 OCR technique is used to extract texts. Before OCR, I used the *Opencv* package in python to enhance these images to make them more readable (increase contrast, etc.).  
 
-<!-- <div align=center>
+<div align=center>
 <table><tr>
-<td><img src="/images/heat0.jpg"></td>
-<td><img src="/images/heat1.jpg" ></td>
+<td><img src="/images/r21.jpg"></td>
+<td><img src="/images/r22.jpg" ></td>
 </tr></table>
 </div>
-<div align=center>
+<!-- <div align=center>
 <table><tr>
 <td><img src="/images/heat2.jpg"></td>
 <td><img src="/images/heat3.jpg" ></td>
