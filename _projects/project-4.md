@@ -9,20 +9,11 @@ collection: projects
 **Description**:
 With the help of the *selenium* package in Python, I developed a visa assistant which can be used to monitor available slots. With this program, I successfully booked a French visa appointment.
 
-<!-- <div align=center>
-<table><tr>
-<td><img src="/images/heat0.jpg"></td>
-<td><img src="/images/heat1.jpg" ></td>
-</tr></table>
-</div>
+<div align=center><img src="/images/r31.jpg"></div>
+
 <div align=center>
 <table><tr>
-<td><img src="/images/heat2.jpg"></td>
-<td><img src="/images/heat3.jpg" ></td>
+<td><img src="/images/r32.png"></td>
+<td><img src="/images/r33.png" ></td>
 </tr></table>
-</div> -->
-
-
-
-
-
+</div>
