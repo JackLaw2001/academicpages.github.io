@@ -9,18 +9,18 @@ collection: projects
 **Description**:
 By intercepting network requests, I found the key API for seat reservation. Based on the *request* package in python, I developed a seat grabbing system.
 
-<!-- <div align=center>
-<table><tr>
-<td><img src="/images/heat0.jpg"></td>
-<td><img src="/images/heat1.jpg" ></td>
-</tr></table>
-</div>
 <div align=center>
+<table><tr>
+<td><img src="/images/r11.png"></td>
+<td><img src="/images/r12.png" ></td>
+</tr></table>
+</div> -->
+<!-- <div align=center>
 <table><tr>
 <td><img src="/images/heat2.jpg"></td>
 <td><img src="/images/heat3.jpg" ></td>
 </tr></table>
-</div> -->
+</div> --> -->
 
 
 
