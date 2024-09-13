@@ -1,6 +1,6 @@
 ---
 title: "The User Demographics in Dating Platforms"
-excerpt: "Completed in 2023, 2021<br/><img src='/images/r24.png' width='600'>"
+excerpt: "Completed in 2023<br/><img src='/images/r24.png' width='600'>"
 collection: projects
 ---
 
