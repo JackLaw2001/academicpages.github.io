@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The awards mentioned on this page were mainly won by me during my undergraduate studies. My undergraduate GPA was 88.23/100, ranking 17th out of 197 students.
+The awards mentioned on this page were mainly won by me during my undergraduate studies. My undergraduate GPA was 88.23/100, ranking 15th out of 197 students.
 
 Except for the graduation year, Chinese universities will award scholarships to students based on their academic performance at the end of each academic year. When I was an undergraduate, I received first-class, second-class and second-class scholarships respectively in three years. When I was an undergraduate, I also participated in some computer-related or mathematics-related competitions, and the awards I won were as follows.
 <div align=center><img src="../images/ICPC.png"></div>
